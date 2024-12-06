@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently Learning in Machine learning in Python 
+ Aspiring Data Scientist | Currently building Machine Learning models and exploring real-world applications. Passionate about coding, data, and innovation.
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@ I am currently Learning in Machine learning in Python
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arpita Rajput&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpita Rajput&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
