@@ -1,5 +1,5 @@
 # 💫 About Me:
- Aspiring Data Scientist | Currently building Machine Learning models and exploring real-world applications. Passionate about coding, data, and innovation.
+ Aspiring Data Analyst | Currently building Machine Learning models and exploring real-world applications. Passionate about coding, data, and innovation.
 
 
 ## 🌐 Socials:
