@@ -1,5 +1,8 @@
 # 💫 About Me:
-Aspiring Data Analyst | Currently building Machine Learning models and exploring real-world applications. Passionate about coding, data, and innovation.
+Pursuing Integrated M.Tech in CSE with a minor in Data Science
+Aspiring Data Analyst.
+Currently building Machine Learning models and exploring real-world applications. 
+Passionate about coding, data, and innovation.
 
 
 ## 🌐 Socials:
