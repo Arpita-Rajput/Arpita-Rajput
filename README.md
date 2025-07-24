@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Pursuing Integrated M.Tech in CSE with a minor in Data Science<br>📊 Aspiring Data Analyst with a strong interest in data-driven insights<br>🤖 Currently building machine learning models and exploring real-world use cases<br>💻 Passionate about coding, data, and innovation in tech
+🎓 Pursuing Integrated M.Tech in CSE with a minor in Data Science.<br>📊 Aspiring Data Analyst with a strong interest in data-driven insights.<br>🤖 Currently building machine learning models and exploring real-world use cases.<br>💻 Passionate about coding, data, and innovation in tech.
 
 
 ## 🌐 Socials:
