@@ -12,12 +12,6 @@
 
 
 # 📊 GitHub Stats:
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpita-rajput&show_icons=true&locale=en&layout=compact" alt="arpita-rajput" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpita-rajput&" alt="arpita-rajput" /></p>
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Arpita-Rajput&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Arpita-Rajput&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpita-Rajput&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
